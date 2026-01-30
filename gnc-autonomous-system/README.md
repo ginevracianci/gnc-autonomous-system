@@ -12,6 +12,23 @@ This project implements the functional analysis and system architecture for an a
 
 The system design is based on heritage from successful missions including Hayabusa2 and OSIRIS-REx, and follows ECSS standards for space systems engineering.
 
+## 📚 Academic Background
+
+This project is based on research conducted for my Master's Thesis:
+
+**Title**: Lunar Missions Design with Electric Propulsion: A Parametric Study 
+on SEP Trajectories for Small Satellites
+
+**Institution**: Politecnico di Torino & Politecnico di Milano
+
+**Supervisors**: 
+- Prof. Lorenzo Casalino (Politecnico di Torino)
+- Prof. Camilla Colombo (Politecnico di Milano)
+
+**Implementation**: Chapters 4 (Functional Analysis) & 5 (System Architecture)
+
+[📄 View Thesis Abstract](https://drive.google.com/file/d/17bH8A6UUGI-fUZt2HIKD6GEeQ6ByVAj8/view?usp=sharing)
+
 ## 🎯 Key Features
 
 ### Functional Architecture (Chapter 4)
