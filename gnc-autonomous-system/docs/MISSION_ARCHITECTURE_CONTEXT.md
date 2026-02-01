@@ -502,7 +502,7 @@ Contributing to:
 For questions about mission architecture or GNC system integration:
 
 **Author**: Ginevra Cianci  
-**Email**: ginevra.cianci@polito.it  
+**Email**: ginevra.cianci@gmail.it  
 **LinkedIn**: [linkedin.com/in/ginevracianci](https://linkedin.com/in/ginevracianci)
 
 **Institution**: ISAE-SUPAERO SaCLaB, Toulouse, France  
