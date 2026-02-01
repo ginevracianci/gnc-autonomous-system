@@ -44,6 +44,34 @@ This work was conducted at **ISAE-SUPAERO's Space Advanced Concepts Laboratory (
 
 **[📄 Read more about ESA collaboration →](docs/ESA_COLLABORATION.md)**
 
+## 🌍 Mission Architecture Context
+
+This GNC system was developed within the broader context of asteroid sample return mission architecture. 
+
+**System Role:**
+- Critical subsystem for proximity operations
+- Enables autonomous Touch-And-Go sample collection
+- Addresses light-time delay challenge (5-20 minutes)
+
+**Mission Context:**
+- Target: Near-Earth Asteroid (200-500m diameter)
+- Mission type: Sample return (100-500g)
+- Trajectory: Hybrid ballistic + SEP
+- Duration: 3-5 years total mission
+
+**Trade-Offs Analyzed:**
+- Trajectory options (ballistic vs SEP vs hybrid)
+- GNC autonomy level (ground-commanded vs autonomous)
+- Sensor suite selection (cost vs performance)
+- Sample collection method (TAG selected)
+
+**Heritage Missions:**
+- Hayabusa2 (JAXA) - TAG methodology
+- OSIRIS-REx (NASA) - Requirements baseline
+- ESA Hera - Future applications
+
+**[📄 Read complete mission architecture analysis →](docs/MISSION_ARCHITECTURE_CONTEXT.md)**
+
 ## 🎯 Key Features
 
 ### Functional Architecture (Chapter 4)
@@ -237,6 +265,7 @@ The project includes complete SysML diagrams created with Cameo Systems Modeler:
 | Requirements Diagrams | ECSS-compliant requirements with traceability | [View](docs/images/autonomous_requirements.png) |
 | GNC Architecture | Complete system architecture and data flow | [View](docs/images/gnc_architecture.png) |
 | Activity Diagrams | Operational sequences for RDV and TAG | [View](docs/images/rdv_activity.png) |
+| Mission Architecture Context | Complete mission-level system design | [View](docs/MISSION_ARCHITECTURE_CONTEXT.md) |
 
 📊 **[See all diagrams in Visual Guide →](docs/VISUAL_GUIDE.md)**
 
