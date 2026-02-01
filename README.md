@@ -7,7 +7,7 @@
 
 A Python-based implementation of an autonomous Guidance, Navigation, and Control (GNC) system designed for small body (asteroid) exploration missions, following Model-Based Systems Engineering (MBSE) principles.
 
-![Mission Overview](docs/images/mission_overview.png)
+![Mission Overview](gnc-autonomous-system/docs/images/images/mission_overview.jpg)
 
 ## 📋 Project Overview
 
