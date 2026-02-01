@@ -36,6 +36,27 @@ on SEP Trajectories for Small Satellites
 
 [📄 View Thesis Abstract](https://drive.google.com/file/d/163-vJmio-P-rDc4Nkhl1ZB7KGaXkaF6G/view?usp=sharing)
 
+## 🚀 ESA Collaboration
+
+This work was conducted at **ISAE-SUPAERO's Space Advanced Concepts Laboratory (SaCLaB)** in collaboration with ESA stakeholders for asteroid exploration GNC validation.
+
+**Research Context:**
+- **Institution**: ISAE-SUPAERO SaCLaB, Toulouse, France
+- **Duration**: May 2023 - December 2023
+- **Supervisors**: 
+  - Prof. Stéphanie Lizy-Destrez (ISAE-SUPAERO)
+  - Dr. Tomohiro Ishizuka (SaCLaB)
+  - Eng. Jérôme Puech (ESA collaboration)
+- **Focus**: Systems Engineering for Asteroid Exploration GNC Validation Test
+
+**Key Activities:**
+- Autonomous GNC algorithm design for asteroid rendezvous and Touch-And-Go
+- Model-Based Systems Engineering (MBSE) methodology with SysML
+- Hardware-in-the-loop (HIL) simulation framework development
+- Requirements verification and validation following ECSS standards
+
+**Tools**: CATIA Cameo Systems Modeler (SysML), MATLAB/Simulink, Python
+
 ## 🎯 Key Features
 
 ### Functional Architecture (Chapter 4)
