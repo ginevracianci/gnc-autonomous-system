@@ -22,7 +22,15 @@ GNC System
     ├── Sensor Suite
     └── Actuator Suite
 ```
+## Research Context
 
+**This work was developed at ISAE-SUPAERO's Space Advanced Concepts Laboratory (SaCLaB) in collaboration with ESA stakeholders.**
+
+The implementation demonstrates:
+- MBSE methodology application per ESA guidelines
+- ECSS standards compliance
+- GNC validation approach for autonomous missions
+- Systems engineering best practices for space applications
 ## Implementation Details
 
 ### 1. Functional Analysis (Chapter 4)
