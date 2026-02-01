@@ -247,7 +247,7 @@ hil.run_test_scenario(scenario='TAG', duration=100.0)
 | Document | Description | Link |
 |----------|-------------|------|
 | Quick Start Guide | Get up and running in 5 minutes | [View](QUICKSTART.md) |
-| Technical Documentation | Detailed system design and implementation | [View](docs/TECHNICAL_DOC.md) |
+| Technical Documentation | Detailed system design and implementation | [View](gnc-autonomous-system/docs/TECHNICAL_DOC.md) |
 | Visual Guide | Complete SysML diagrams and architecture visuals | [View](docs/VISUAL_GUIDE.md) |
 | ESA Collaboration | Research context and academic background | [View](docs/ESA_COLLABORATION.md) |
 | HIL Testing Strategy | Complete HIL methodology and test scenarios | [View](docs/HIL_TESTING.md) |
