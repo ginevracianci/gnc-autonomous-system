@@ -42,7 +42,7 @@ This work was conducted at **ISAE-SUPAERO's Space Advanced Concepts Laboratory (
 
 **Tools**: CATIA Cameo Systems Modeler (SysML), MATLAB/Simulink, Python
 
-**[📄 Read more about ESA collaboration →](docs/ESA_COLLABORATION.md)**
+**[📄 Read more about ESA collaboration →](gnc-autonomous-system/docs/ESA_COLLABORATION.md)**
 
 ## 🌍 Mission Architecture Context
 
@@ -70,7 +70,7 @@ This GNC system was developed within the broader context of asteroid sample retu
 - OSIRIS-REx (NASA) - Requirements baseline
 - ESA Hera - Future applications
 
-**[📄 Read complete mission architecture analysis →](docs/MISSION_ARCHITECTURE_CONTEXT.md)**
+**[📄 Read complete mission architecture analysis →](gnc-autonomous-system/docs/MISSION_ARCHITECTURE_CONTEXT.md)**
 
 ## 🎯 Key Features
 
@@ -96,7 +96,7 @@ This GNC system was developed within the broader context of asteroid sample retu
 - Compatible with ESA GRALS facility testing approach
 - Fault injection and off-nominal scenario testing
 
-**[📄 Read detailed HIL methodology →](docs/HIL_TESTING.md)**
+**[📄 Read detailed HIL methodology →](gnc-autonomous-system/docs/HIL_TESTING.md)**
 
 ### Technical Capabilities
 - **Navigation**: Multi-sensor fusion (IMU, optical cameras, LIDAR, Star Tracker)
@@ -220,8 +220,6 @@ hil.run_test_scenario(scenario='TAG', duration=100.0)
 ```
 
 ## 📊 Mission Phases
-
-![Mission Phases](docs/images/mission_phases.png)
 
 ### 1. Rendezvous Phase
 - Approach from ~2500 km to 20 km home position
